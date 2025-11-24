@@ -9,7 +9,7 @@
 #define PROTOCOL_H_
 
 // Shared application parameters
-#define SERVER_PORT 56700  // Default Server port (updated per Assegnazione.md)
+#define SERVER_PORT 56700  // Default Server port
 #define BUFFER_SIZE 512    // Buffer size for messages
 #define QUEUE_SIZE 5       // Size of pending connections queue
 
